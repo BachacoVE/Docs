@@ -207,27 +207,27 @@ Todo lo que necesitamos hacer es agregar una opción de menú para abrir el mode
 
 Crearemos un archivo nuevo `todo_view.xml` en el directorio raíz del módulo, y este tendrá la declaración de un ítem de menú y la acción ejecutada por este:
 ```
-<?xml	version="1.0"?>; 
-    <openerp>; 		
-        <data>; 
-        <!-- Action to open To-do Task list -->;
+<?xml	version="1.0"?>
+    <openerp> 		
+        <data>
+        <!-- Action to open To-do Task list -->
             <act_window	
                 id="action_todo_task" 						
                 name="To-do Task" 						
                 res_model="todo.task" 						
                 view_mode="tree,form"	
-            />; 
+            /> 
 
-        <!-- Menu item to open To-do Task list -->; 
+        <!-- Menu item to open To-do Task list -->
             <menuitem 
                 id="menu_todo_task"
                 name="To-Do Tasks"
                 parent="mail.mail_feeds"
                 sequence="20"
                 action="action_todo_task"
-            />; 
-        </data>; 
-    </openerp>; 
+            /> 
+        </data> 
+    </openerp>
 ```
 La interfaz con el usuario y usuaria, incluidas las opciones del menú y las acciones, son almacenadas en tablas de la base de datos. El archivo XML es un archivo de datos usado para cargar esas definiciones dentro de la base de datos cuando el módulo es instalado o actualizado. Esto es un archivo de datos de Odoo, que describe dos registros para ser agregados a Odoo:
 
