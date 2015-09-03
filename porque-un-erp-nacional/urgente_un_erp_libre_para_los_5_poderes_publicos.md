@@ -1,7 +1,6 @@
-﻿Artículo:
-URGENTE: Un ERP Libre para los 5 Poderes Públicos
+========= Inicio del Artículo ==========
 
-==== Inicio del Artículo ======
+#Un ERP Libre para los 5 Poderes Públicos
 
 ###¿Qué es un ERP?
 
@@ -41,7 +40,7 @@ En Venezuela contamos con un colectivo con cociencia TecnoPolítica y capacidade
 
 Además, más ámpliamente, en la Comunidad de Tecnologías Libres contamos con más de 10 años de experiencia en la migración a tecnologías libres en distintas áreas tales como equipos de trabajo, infraestructura de servicios, diseño gráfico, audio y video, entre otros.
 
-### La Propuesta
+###La Propuesta
 
 Entonces, el colectivo BachacoVe propone y lidera: 
 
@@ -51,7 +50,7 @@ Entonces, el colectivo BachacoVe propone y lidera:
 4. Juntar las capacidades de desarrollo de software del Poder Público en una metodología de desarrollo colaborativo
 5. Desarrollar el Ecosistema de Unidades Productivas que soporte el ERP Nacional
 
-### ¿Qué nos hace falta para construirlo?
+###¿Qué nos hace falta para construirlo?
 
 Es urgente que las universidades (al menos las experimentales) asuman la formación de las tecnologías y estándares usados en el ERP, entre las propuestas está el lenguaje de programación Python, el manejador de base de datos PostgreSQL, el lenguaje de marcado XML, Interoperabilidad, Programación Orientada a Objetos, entre otros temas. Esto permitirían que el salto hacia la apropiación del conocimiento en los módulos ya desarrollados sea mucho más fácil.
 
@@ -86,19 +85,6 @@ Referencias:
 - [8] http://www.github.com/Bachaco-ve/
 
 ========= Fin del Artículo ==========
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **¿Qué es un sistema ERP?
 
