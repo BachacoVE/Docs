@@ -3,29 +3,29 @@ URGENTE: Se solicita ERP Libre para los 5 poderes públicos
 
 ¿Qué es un sistema ERP?
 
-Un sistema de Planificación de Recursos Empresariales (ERP) es esencialmente un paquete de aplicaciones de negocio que son integradas para asistir a una compañía en la recolección, gestión y reporte de información a través de todos los procesos de negocios del núcleo. Estas aplicaciones de negocio, típicamente llamadas módulos, pueden ser, regularmente, instaladas y configuradas  independientemente basado en las necesidades específicas del negocio. Este diseño modular de la mayoría de los sistemas ERP ofrece a las compañías una gran flexibilidad en como implementar el sistema. En el pasado, los sistemas ERP eran, en principio, utilizados en operaciones de manufactura. Con el pasar de los años, el ámbito de los sistemas ERP ha crecido para abarcar un amplio rango de funciones relacionadas al negocio. Recientemente los sistemas ERP han empezado a incluir más características sofisticadas de comunicación y redes sociales.
+Un sistema de Planificación de Recursos Empresariales (ERP) es esencialmente un paquete de aplicaciones de negocio que son integradas para asistir a una compañía u organización en la recolección, gestión y reporte de información a través de todos los procesos relacionados. Estas aplicaciones de negocio, típicamente llamadas módulos, pueden ser, regularmente, instaladas y configuradas de manera independiente, basadas en las necesidades específicas del negocio. Este diseño modular, de la mayoría de los sistemas ERP, ofrece a las compañías una gran flexibilidad en como instrumentar el sistema. En el pasado, los sistemas ERP eran, en principio, utilizados en operaciones de manufactura. Con el pasar de los años, el ámbito de los sistemas ERP ha crecido para abarcar un amplio rango de funciones relacionadas al negocio. Recientemente los sistemas ERP han empezado a incluir más características sofisticadas de comunicación y redes sociales (la llamada Web 2.0).
 
-*Un sistema de Planificación de Recursos Empresariales (por sus siglas en inglés ERP) es , a grandes rasgos, un paquete de aplicaciones que son integradas para asistir a una organización en la recolección, gestión y reporte de información de todos sus procesos medulares. Estas aplicaciones, generalmente llamadas “módulos”, pueden ser instaladas y configuradas independientemente, basadas en las necesidades específicas de la organización. Este diseño modular de la mayoría de los ERP ofrece a las organizaciones una gran flexibilidad para implementar el sistema. En el pasado los sistemas ERP eran, en principio, utilizados en operaciones de manufactura. Con el pasar de los años el ámbito de los sistemas ERP ha crecido para abarcar un amplio rango de funciones. Recientemente los sistemas ERP han empezado a incluir más características sofisticadas de comunicación y redes sociales.
+*Un sistema de Planificación de Recursos Empresariales (por sus siglas en inglés ERP) es, a grandes rasgos, un paquete de aplicaciones que son integradas para asistir a una organización en la recolección, gestión y reporte de información de todos sus procesos medulares. Estas aplicaciones, generalmente llamadas “módulos”, pueden ser instaladas y configuradas independientemente, basadas en las necesidades específicas de la organización. Este diseño modular de la mayoría de los ERP ofrece a las organizaciones una gran flexibilidad para implementar el sistema. En el pasado los sistemas ERP eran, en principio, utilizados en operaciones de manufactura. Con el pasar de los años el ámbito de los sistemas ERP ha crecido para abarcar un amplio rango de funciones. Recientemente los sistemas ERP han empezado a incluir más características sofisticadas de comunicación y redes sociales. (Estas ideas son básicamente las expresadas en el párrafo anterior, supongo que se debe a que este es un documento de trabajo)
 
 OpenERP, un acercamiento moderno a la gestión integrada de negocios
 
-Los sistemas de información han jugado un rol visible en incremento durante los últimos años en el mejoramiento de la competitividad de los negocios. Más que solo herramientas para el manejo de tareas repetitivas, son usadas para guiar y avanzar todas las actividades diarias de la compañía. El software de gestión integrada es hoy una fuente clave muy común de ventaja competitiva.  
+Los sistemas de información han jugado un rol visible en incremento durante los últimos años en el mejoramiento de la competitividad de los negocios. Más que sólo herramientas para el manejo de tareas repetitivas, son usadas para guiar y avanzar todas las actividades diarias de la compañía u organización. El software de gestión integrada es hoy una fuente clave muy común de ventajas competitivas.  
 
-El estándar responde a una necesidad de responsividad, confiabilidad , y las espectativas que están creciendo rápido es crear una organización basada en departamentos con una estructura lineal, integrada alrededor de tus procesos operativos. Para incrementar la eficiencia entre el personal de ventas, contabilidad, staff de logística y cualquier otro, deberías tener una compresión común de tus problemas.
+El estándar responde a una necesidad de responsividad, confiabilidad, y a las expectativas de rápido crecimiento alrededor de la idea de crear una organización basada en departamentos con una estructura lineal, integrada en torno a sus procesos operativos. Para incrementar la eficiencia entre el personal de ventas, contabilidad, grupo de logística y cualquier otro, es necesario tener una compresión común de tus problemas.
 
 Para esto necesitas un lenguaje común para las referencias, políticas y comunicación compartidas. Un sistema ERP (Enterprise Resource Planning) es la plataforma ideal para este punto de referencia común.
 
 ¿Qué empresas dominan este mercado en Venezuela?
 
-En cuanto al ámbito de las aplicaciones de gestión administrativa de instituciones públicas encontramos el sigesp, el cual tiene varios años de experiencia en esta área, y aunque está desarrollada bajo tecnologías libres (php, mysql/postgres), abarcan solo una parte de lo necesario, es casi imposible adaptarlo a las necesidades y particularidades de la institución, y un factor común en el éxito de la implantación es contar con un(a) excelente desarrollador(a) que logre descifrar el código ó, una chequera abultada para pagar los 5.000 bolívares (aprox.) que cuesta la hora de asesoría, y por supuesto, una asesoría, por más sencilla que sea, no bajará de 4 horas.
+En cuanto al ámbito de las aplicaciones de gestión administrativa de instituciones públicas encontramos el sigesp, el cual tiene varios años de experiencia en esta área, y aunque está desarrollada bajo tecnologías libres (php, mysql/postgres), abarcan sólo una parte de lo necesario, es casi imposible adaptarlo a las necesidades y particularidades de la institución, y un factor común en el éxito de la implantación es contar con un(a) excelente desarrollador(a) que logre descifrar el código ó, una chequera abultada para pagar los 5.000 bolívares (aprox.) que cuesta la hora de asesoría, y por supuesto, una asesoría, por más sencilla que sea, no bajará de 4 horas.
 
-Por otro lado, tenemos otra aplicación que es referencia en el mundo de los ERP, la cual por sus altísimos costos pocas instituciones pueden costearla. Esta aplicación es SAP, y entre las pocas instituciones que la usan está Pdvsa y Cantv.
+Por otro lado, tenemos otra aplicación que es referencia en el mundo de los ERP, la cual por sus altísimos costos pocas instituciones pueden costearla. Esta aplicación es SAP, y entre las pocas instituciones que la usan está PDVSA y CANTV.
 
-En una búsqueda [0] sobre costos de SAP conseguimos que, por usuario, en la versión que seguramente usan pdvsa y cantv, puede llegar a costar 2500 dólares, más el 17% de costos de mantenimiento anual. 
+En una búsqueda [0] sobre costos de SAP conseguimos que, por usuario, en la versión que seguramente usan PDVSA y CANTV, puede llegar a costar 2500 dólares, más el 17% de costos de mantenimiento anual. 
 
 Pero, aunque tenemos instituciones que pueden costear eso, sigue siendo una aplicación privativa en la que tenemos restricciones fuertes para su uso, no podemos estudiarla, menos modificarla ni redistribuirla libremente.
 
-¿Qué restricciones hay sus licencias?
+¿Qué restricciones hay en sus licencias?
 
 Por qué un ERP Libre
 
@@ -53,7 +53,7 @@ Un sistema de Planificación de Recursos Empresariales (por sus siglas en inglé
 En la situación mundial actual este tipo de sistemas está dominado por empresas transnacionales con enfoque completamente capitalista usando tecnologías privativas, quienes con su mercadeo y el peso corporativo, consiguen contratos multimillonarios para alquilar su software. Para muestra, dos botones: PDVSA y CANTV tienen implementado un sistema ERP llamado “SAP”, el cual pertenece a una empresa alemana, completamente ajena a nuestros ideales socialistas e intereses emancipatorios. Este sistema tiene altísimo costo de implantación, lo que excluye a cualquier organización que no tenga el alcance económico de una PDVSA o una CANTV.
 
 Debe ser Libre
-Aún cuando existiera una alternativa que fuera viable económicamente, se requiera una segunda cualidad: Libertad. En nuestra Ley de Infogobierno[1] se determina, con carácter obligatorio, que nuestras instituciones deben emplear solo software libre con estándares abiertos, lo que obliga que el ERP cumpla al menos con las cuatro (4) libertades esenciales del software libre: 0) Libertad de Uso, 1) Libertad de Estudio (acceso al código fuente), 2) Libertad de Modificación y 3) Libertad de Compartir las modificaciones.
+Aún cuando existiera una alternativa que fuera viable económicamente, se requiera una segunda cualidad: Libertad. En nuestra Ley de Infogobierno[1] se determina, con carácter obligatorio, que nuestras instituciones deben emplear sólo software libre con estándares abiertos, lo que obliga que el ERP cumpla al menos con las cuatro (4) libertades esenciales del software libre: 0) Libertad de Uso, 1) Libertad de Estudio (acceso al código fuente), 2) Libertad de Modificación y 3) Libertad de Compartir las modificaciones.
 
 ¿Por qué un ERP Libre?
 
@@ -88,7 +88,7 @@ Fomentar el desarrollo colaborativo entre las comunidades de tecnologías, entre
 
 Incentivar la conformación de unidades productivas en las bases de los colectivos tecnológicos, en las comunas, en las universidades, con apoyo legal y económico.
 
-Desarrollar un plan formativo de corta duración enfoncado a la conformación de unidades productivas de desarrollo de software libre con estándares abiertos, especialmente del ERP Libre.
+Desarrollar un plan formativo de corta duración enfocado a la conformación de unidades productivas de desarrollo de software libre con estándares abiertos, especialmente del ERP Libre.
 
 Favorecer en la contratación de servicios a las unidades productivas que tengan un modelo de desarrollo colaborativo, que compartan sus desarrollos y funcionen bajo un modelo cooperativista de no-explotación.
 
@@ -151,16 +151,16 @@ Pequiven y PDVSA los financieros de la industria alemana SAP.
 
 Vtelca usa Sigesp.
 
-VIT desarrollo un sistema para el control de la producción en simfony.
+VIT desarrollo un sistema para el control de la producción en symfony.
 
-Muchas otras Empresas usan sistemas legacy o hojas de cálculo.
+Muchas otras Empresas usan sistemas legacy u hojas de cálculo.
 
 Corpivensa institución adscrita al MPPI implementa SIGESP en las industrias adscritas que se han inaugurado en los últimos 2 años.
 
-Todo este relato debido a que la CONATI lanzo el pasado año un registro de aplicaciones que debe identificar que se ha avanzado en los últimos 10 años en la implementación de tecnologías libres (inversiones para desarrollar la industria del software local = desarrollo tecnológico endógeno), los datos de este registro deben ser publicados o socializados para establecer enlaces entre organizaciones que tienen un fin común producción y necesitan controlar sus recursos
+Todo este relato debido a que la CONATI lanzó el pasado año un registro de aplicaciones que debe identificar que se ha avanzado en los últimos 10 años en la implementación de tecnologías libres (inversiones para desarrollar la industria del software local = desarrollo tecnológico endógeno), los datos de este registro deben ser publicados o socializados para establecer enlaces entre organizaciones que tienen un fin común producción y necesitan controlar sus recursos
 
 Alvaro Benancio Castro Navas 
-@vijoin en INVEPAL implementados Talento Humano en Adempiere, con personal interno hicimos un llamado en la web para crear comunidad local alrededor de este ERP , la rotación del personal impacta negativamente en la continuidad de los proyectos de implementación de Sistemas de Información Administrativos y Productivos Libres
+@vijoin en INVEPAL implementados Talento Humano en Adempiere, con personal interno hicimos un llamado en la web para crear comunidad local alrededor de este ERP, la rotación del personal impacta negativamente en la continuidad de los proyectos de implementación de Sistemas de Información Administrativos y Productivos Libres
 
 
 Resumen de Proyectos
