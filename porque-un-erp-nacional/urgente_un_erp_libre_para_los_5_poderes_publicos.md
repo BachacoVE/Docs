@@ -33,7 +33,7 @@ El ERP Nacional, al ser implementado masivamente en el Poder Público, potenciar
 
 ###¿Con qué contamos para construir el ERP Nacional?
 
-Un ERP Libre que no está adaptado (por ahora) a nuestra legislación ni a nuestro modelo de gestión, pero que es fácil de adaptar. Este software es Odoo[6], el cual tiene más de 10 años de maduración y en Venezuela hay varios casos de éxito en desarrollo de sistemas bajo este ERP, entre ellos: Industrias Diana, Consejo Federal de Gobierno, Inces, Inparques, Gobernación de Cojedes y Consejo Presidencial para las empresar Recuperadas.
+En los actuales momentos contamos con un ERP Libre, que no está adaptado (por ahora) a nuestra legislación ni a nuestro modelo de gestión, pero que es relativamente fácil de adaptar. Este software es Odoo[6], el cual tiene más de 10 años de maduración y en Venezuela hay varios casos de éxito en desarrollo de sistemas bajo este ERP, entre ellos: Industrias Diana, Consejo Federal de Gobierno, Inces, Inparques, Gobernación de Cojedes y Consejo Presidencial para las empresar Recuperadas.
 
 Aún cuando este ERP es Libre, es importante alertar sobre el modelo de negocio que promueven el cual denominan “Partner” e implica el pago de una membresía de 10.000 dólares para obtener soporte directo de la empresa desarrolladora del sistema entre otras herramientas. En contraste, existe una comuidad mundial que sin ser “Partner” desarrolla y comparte tanto código como la propia empresa matriz del desarrollo.
 
@@ -43,7 +43,7 @@ Además, más ámpliamente, en la Comunidad de Tecnologías Libres contamos con 
 
 ### La Propuesta
 
-Entonces, la propuesta es simple: 
+Entonces, el colectivo BachacoVe propone y lidera: 
 
 1. Construir el ERP Nacional
 2. Con Tecnologías Libres
