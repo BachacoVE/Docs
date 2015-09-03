@@ -32,7 +32,7 @@ El ERP Nacional, al ser implementado masivamente en el Poder Público, potenciar
 
 ###¿Con qué contamos para construir el ERP Nacional?
 
-En los actuales momentos contamos con un ERP Libre, que no está adaptado (por ahora) a nuestra legislación ni a nuestro modelo de gestión, pero que es relativamente fácil de adaptar. Este software es Odoo[6], el cual tiene más de 10 años de maduración y en Venezuela hay varios casos de éxito en desarrollo de sistemas bajo este ERP, entre ellos: Industrias Diana, Consejo Federal de Gobierno, Inces, Inparques, Gobernación de Cojedes y Consejo Presidencial para las empresar Recuperadas.
+En los actuales momentos contamos con un ERP Libre, que no está adaptado (por ahora) a nuestra legislación ni a nuestro modelo de gestión, pero que es relativamente fácil de adaptar. Este software es Odoo[6], el cual tiene más de 10 años de maduración y en Venezuela hay varios casos de éxito en desarrollo de sistemas bajo este ERP, entre ellos: Industrias Diana, Consejo Federal de Gobierno, Inces, Inparques, Gobernación de Cojedes y Consejo Presidencial para las empresas Recuperadas.
 
 Aún cuando este ERP es Libre, es importante alertar sobre el modelo de negocio que promueven el cual denominan “Partner” e implica el pago de una membresía de 10.000 dólares para obtener soporte directo de la empresa desarrolladora del sistema entre otras herramientas. En contraste, existe una comuidad mundial que sin ser “Partner” desarrolla y comparte tanto código como la propia empresa matriz del desarrollo.
 
@@ -66,7 +66,7 @@ Juntar las necesidades y las capacidades (físicas, financieras y talentos) de d
 
 Realizar muchos eventos que convoquen y concentren a la mayor cantidad de voluntades para el Plan de Migración. Este evento convocaría a estudiantes, unidades productivas, servidores públicos (programadores o no), autoridades de gobierno, poder popular, invitados de naciones hermanas, etc.
 
-En los momentos actuales de intensa guerra económica la patria nos exige hacer más con menos, ser más eficientes y eficaces, y para esto necesitamos herramientas informáticas que soporten y procesen toda la información necesaria. Esa herramienta no se construirá sola. Debemos liberarnos de la maldición del petróleo y tomar conciencia de la gran capacidad que tenemos los venezolanos y venezolanas para desarrollar nuestra propia tecnológia; pero debemos empezar desde ya, maximando nuestros recursos y apostando a nuestra gente y a nuestra patria.
+En los momentos actuales de intensa guerra económica la patria nos exige hacer más con menos, ser más eficientes y eficaces, y para esto necesitamos herramientas informáticas que soporten y procesen toda la información necesaria. Esa herramienta no se construirá sola. Debemos liberarnos de la maldición del petróleo y tomar conciencia de la gran capacidad que tenemos los venezolanos y venezolanas para desarrollar nuestra propia tecnológia; pero debemos empezar desde ya, maximizando nuestros recursos y apostando a nuestra gente y a nuestra patria.
 
 -Colectivo BachacoVe-
 http://www.bachaco.org.ve/
