@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #Declaración de Principios y Contrato Social de Bachaco-VE
+=======
+Propuesta para BachacoVE basado en la del FRTL
+
+#Declaración de Principios y Contrato Social del FRTL
+>>>>>>> 01a3b15d4836205ac8f88c52546285342fec5a89
 
 
 El Colectivo Frente Bachaco-VE, es una orgánica autónoma radicada en Venezuela pero ciudadanos del mundo. Nuestro propósito es ayudar en la creación de una sociedad libre, en un mundo sediento de Libertad de Tecnologías, un mundo sin opresión o jerarquía , donde el poder es compartido por igual. Hacemos esto mediante el activismo de sus miembros, de comunicación y democratización de saberes, abiertos a  a los aliados que participan en las luchas contra el capitalismo y otras formas de opresión, apegado a las leyes emanadas de la revolución bolivariana como dictamen único del soberano manifestado democráticamente a través del voto popular. nos hemos reunido a nivel nacional, para intercambiar conocimiento técnico y desarrollar herramientas que permitan mejorar nuestras propias capacidades, creadoras y productivas, respetando nuestras lenguas originarias y fortaleciendo nuestra identidad cultural en toda su diversidad, para avanzar en procesos de apropiación social de las tecnologías, en beneficio de nuestras comunidades y redes. Bachaco-VE, convoca entonces a personas y comunidades que deseen organizarse con libertad plena para apoyar iniciativas y movimientos relacionados con el Software y la Cultura Libres. En fin una comunidad con diversidad de saberes y orígenes, que buscan a través de la emancipación tecnológica, en base al intercambio de conocimiento de dominio público, el trabajo colaborativo y democrático la consolidación de la apropiación de herramientas que permitan a nuestro pueblo consolidar su visión libertaria.
