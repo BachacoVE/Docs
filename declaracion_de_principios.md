@@ -1,3 +1,5 @@
+Propuesta para BachacoVE basado en la del FRTL
+
 #Declaración de Principios y Contrato Social del FRTL
 
 
