@@ -1,8 +1,8 @@
 ﻿#Cayapa BachacoVe por/para el ERP Nacional
 
-Se trata de un evento que tiene como propósito principal echar las bases de un Sistema ERP para la Administración Pública Nacional (APN) y el Poder Popular (PP), adaptado a las normativas y leyes vigentes en Venezuela.
+Se trata de un evento que tiene como propósito principal echar las bases de un Ecosistema de Unidades Productivas de Base Tecnológica Libre que permita generar soluciones coherentes con el Plan de la Patria para la Administración Pública Nacional (APN) y el Poder Popular (PP), adaptado a las normativas y leyes vigentes en Venezuela.
 
-Este evento permitirá el encuentro entre las necesidades del Estado Venezolano y las capacidades de las comunidades de Tecnologías Libres, de una manera articulada, sinergiada y simbiótica, es decir, al integrarnos nos ayudamos y nos fortalecemos.
+Este evento permitirá el diálogo entre las necesidades del Estado Venezolano y las capacidades de las comunidades de Tecnologías Libres, de una manera articulada, sinergiada y simbiótica, es decir, al integrarnos nos ayudamos y nos fortalecemos.
 
 Aprovechando la conciencia Tecnopolítica de las comunidades TIL y las disposición de las instituciones, proponemos desarrollar un Ecosistema Productivo Nacional en materia de Tecnologías de Información basado en Principios Socialistas como la Solidaridad, la Cooperación, el Intercambio de Saberes y, sobretodo, el Desarrollo Humano basado en el Trabajo y la valoración justa del trabajo realizado.
 
@@ -12,16 +12,16 @@ Este evento tiene una duración de 3 días en los que se registrarán a los part
 
 Entre las temáticas a abordar proponemos (no es definitivo):
 
-* Arquitectura del ERP
-* Plataforma y Organización del Desarrollo
 * Ecosistema Productivo
 * Estrategia Formativa
+* Arquitectura del ERP
+* Plataforma y Organización del Desarrollo
 
-Por cada temática se establecerá una mesa de trabajo que contará con un moderador o moderadora y un escribiente o escribienta. El moderador se encargará de mantener coherente los hilos de discusión que se debatan y garantizar las consecución de los objetivos definidos para la mesa, mientras que el escribiente deberá anotar los más relevante de las intervenciones enfatizando los acuerdos a que haya lugar.
+Por cada temática se establecerán sesiones de foros abiertos que deben ser sistematizados. El moderador o moderadora se encargará de mantener coherente los hilos de discusión que se debatan y garantizar las consecución de los objetivos definidos para la mesa, mientras que el o la escribiente deberá sistematizar los más relevante de las intervenciones enfatizando los acuerdos a que haya lugar.
 
 Para esta actividad definimos dos comisiones: *Organización y Logística*; las cuales a su vez se conformarán por sub-comisiones más específicas; aún por definir.
 
-Es importante incorporar a las Universidades de manera que se hagan los enlaces necesarios para garantizar la participación de los nuevos profesionales de las Tecnologías Libres a este proyecto y así mantenerlo en el tiempo.
+Es importante incorporar Centros de Formación y Comunidades de Aprendizaje de manera que se hagan los enlaces necesarios para garantizar la participación de los nuevos profesionales de las Tecnologías Libres a este proyecto y así mantenerlo en el tiempo.
 
 Entre las *Estrategias*:
 
